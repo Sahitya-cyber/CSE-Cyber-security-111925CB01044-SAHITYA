@@ -1,0 +1,42 @@
+[
+    {
+        "id": "A104",
+        "name": "core router",
+        "type": "Router",
+        "ip": "192.163.1.1.0",
+        "os": "windows 11",
+        "department": "HR",
+        "risk": "Medium",
+        "status": "Secure"
+    },
+    {
+        "id": "A102",
+        "name": "Web-server",
+        "type": "Server",
+        "ip": "192.168.1.20",
+        "os": "ubuntu",
+        "department": "IT",
+        "risk": "Critical",
+        "status": "Vulnerable"
+    },
+    {
+        "id": "A103",
+        "name": "core-router",
+        "type": "Router",
+        "ip": "192.168.1.2",
+        "os": "cisco ios",
+        "department": "network",
+        "risk": "High",
+        "status": "Warning"
+    },
+    {
+        "id": "a0101",
+        "name": "",
+        "type": "Server",
+        "ip": "123.11.1.1",
+        "os": "op",
+        "department": "hr",
+        "risk": "Low",
+        "status": "Warning"
+    }
+]
